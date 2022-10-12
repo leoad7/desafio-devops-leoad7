@@ -1,3 +1,6 @@
 .idea
 base-test-api/.pytest_cache
 base-test-api/Pipfile.lock
+terraform/.terraform*
+terraform/terraform*
+terraform/tfplan
